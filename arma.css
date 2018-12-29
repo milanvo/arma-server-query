@@ -1,0 +1,23 @@
+html {font-size: 10pt; color: #000; font-style: normal; font-family: Verdana, Arial, Helvetica, sans-serif}
+body {font-size: 10pt; color: #000; font-style: normal; font-family: Verdana, Arial, Helvetica, sans-serif}
+td {font-size: 10pt; color: #000; font-style: normal; font-family: Verdana, Arial, Helvetica, sans-serif}
+textarea {font-size: 10pt; color: #000; font-style: normal; font-family: Verdana, Arial, Helvetica, sans-serif}
+
+a:link {color: black}
+a:visited {color: black}
+a:active {color: black}
+a:hover {color: red}
+
+table{
+  border:1px solid #000;
+  border-style: outset;
+}
+
+td,th {
+  border:1px solid #000;
+  border-style: inset;
+  padding: 2px;
+}
+
+.main {background-color: #E0E0E0; margin:10px 10px 10px 20px}
+.error {color: red; font-weight: bold;}
